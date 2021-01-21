@@ -1,0 +1,11 @@
+resilience\ResilienceController.class
+services\ServiceApplication.class
+Health\ServiceReadyCheck.class
+Entities\Question.class
+Entities\Quiz.class
+Entities\Answer.class
+metrics\MetricController.class
+com\mycompany\project\quizes\UserControllerIntf.class
+services\QuizController.class
+Health\ServiceLiveCheck.class
+com\mycompany\project\quizes\User.class
