@@ -1,0 +1,2 @@
+FROM payara/micro
+COPY target/project-users-1.0-SNAPSHOT.war $DEPLOY_DIR
